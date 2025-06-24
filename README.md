@@ -1,8 +1,5 @@
-Boas vindas ao meu perfil 
-Meu nome é Pedro Oliveira
+Im Peter, but you can call me Oliveira.
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-Você pode entrar em contato comigo 📫
+Im actually coding in python, js and html.
+you can contact me if you need something:
 00001121590329sp@al.educacao.sp.gov.br
