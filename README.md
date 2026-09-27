@@ -8,12 +8,12 @@
 
 ---
 
-Sobre
-Tenho 17 anos e sou um estudante, programador e atleta de alto rendimento.
+<h1>Sobre</h1>
+<h3>Tenho 17 anos e sou um estudante, programador e atleta de alto rendimento.</h3>
 
 ---
 
-Stack Tecnológica
+<h1>Stack Tecnológica</h1>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=robloxstudio,py,html,css,vscode,js" />
@@ -22,9 +22,9 @@ Stack Tecnológica
 
 ---
 
-IDIOMAS
-Ingles - C1
-Espanhol - B2]
+<h2>IDIOMAS</h2>
+<h3>Ingles - C1</h3>
+<h3>Espanhol - B2</h3>
 
 ---
 
@@ -52,7 +52,8 @@ Meios de contato
 ---
 <h1>Associação dos Arqueiros de Campinas</h1>
 </a>
-<a href="https://acamp.esp.br/">
+<h1><a href="https://acamp.esp.br/">
   <img src="https://i0.wp.com/acamp.esp.br/wp-content/uploads/2024/06/logo-copiar.png?resize=150%2C150&ssl=1" />
+</h1>
 </a>
 </div>
