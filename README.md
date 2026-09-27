@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Nome</h1>
+<h1>Pedro Henrique Oliveira Souza</h1>
 
-<h3>Estudante de ... </h3>
+<h3>Estudante de Desenvolvimento de Sistemas </h3>
 
 </div>
 
@@ -13,51 +13,41 @@ Texto
 
 ---
 
-Tecnologias
+Stack Tecnológica
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=robloxstudio,py,html,css,github,vscode,js" />
 
 </div>
 
 ---
 
-Atualmente Estudando
-Texto
+IDIOMAS
+Ingles - C1
+Espanhol - B2]
 
 ---
 
-Objetivos
-Texto
-
----
-
-Contato
+Meios de contato
 <div align="center">
 
-<a href="https://www.linkedin.com/in/seuusuário">
+<a href="https://www.linkedin.com/in/pedro-henrique-83457343a/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.instagram.com/seuusuário/">
+<a href="https://www.instagram.com/0_olliveira_?stkn=MW9hbG5qZ2ZpZnJzOQ==">
   <img src="https://img.icons8.com/color/48/instagram-new--v1.png" height="48" />
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:pedrogarcia.2009os@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://discord.com/users/seuidseusuário">
+<a href="https://discord.com/users/637651122395283497">
   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 </div>
 
 ---
-
-<div align="center">
-
-Obrigado por visitar meu perfil!
-
 </div>
-Imagem
