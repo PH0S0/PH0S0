@@ -9,7 +9,7 @@
 ---
 
 <h1>Sobre</h1>
-<h3>Tenho 17 anos e sou um estudante, programador e atleta de alto rendimento.</h3>
+<h3>Tenho 17 anos sou estudante, programador e atleta de alto rendimento.</h3>
 
 ---
 
