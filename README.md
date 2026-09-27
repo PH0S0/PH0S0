@@ -9,14 +9,14 @@
 ---
 
 Sobre
-Texto
+Tenho 17 anos e sou um estudante, programador e atleta de alto rendimento.
 
 ---
 
 Stack Tecnológica
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=robloxstudio,py,html,css,github,vscode,js" />
+<img src="https://skillicons.dev/icons?i=robloxstudio,py,html,css,vscode,js" />
 
 </div>
 
@@ -50,4 +50,9 @@ Meios de contato
 </div>
 
 ---
+<h1>Associação dos Arqueiros de Campinas</h1>
+</a>
+<a href="https://acamp.esp.br/">
+  <img src="https://i0.wp.com/acamp.esp.br/wp-content/uploads/2024/06/logo-copiar.png?resize=150%2C150&ssl=1" />
+</a>
 </div>
