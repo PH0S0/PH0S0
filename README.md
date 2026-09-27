@@ -50,6 +50,7 @@ Meios de contato
 </div>
 
 ---
+<div align="center">
 <h1>Associação dos Arqueiros de Campinas</h1>
 </a>
 <h1><a href="https://acamp.esp.br/">
